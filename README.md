@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This Application was part of follow-up tutorial to focus on expanding the knowledge of modern reacts features.
 
+## Usage
+
+You need to flip two cards to get the matched cards, if you don't get the matched cards keep on trying till you get two cards matched, you will win after getting all the pair cards matched to each other.
+Below the game it will show you how many turns you have done so far
+
 Down below you will find the link for Live demo and try it for yourself.
 
 ## Available Scripts
